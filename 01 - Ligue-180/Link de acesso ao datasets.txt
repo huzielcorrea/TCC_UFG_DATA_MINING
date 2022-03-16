@@ -1,9 +1,7 @@
 Observação:
-    Há um limite no tamanho de arquivos em 100 megas bits pelo Github. Os datasets exceder o tamanho máximo, você poderá    acessar os mesmos através do link.
-
-    https://drive.google.com/drive/folders/1UrurSSeFUlpiwNGECEuNKt85WEaf_aow?usp=sharing
+    Há um limite no tamanho de arquivos em 100 megas bits pelo Github. Os datasets exceder o tamanho máximo, os arquivos poderão ser acessados através do link: https://drive.google.com/drive/folders/1UrurSSeFUlpiwNGECEuNKt85WEaf_aow?usp=sharing
  
-Estrutura de diretórios no Gdrive:
+Estrutura de armazenamento dos arquivos no Gdrive:
 	01 - Seleção; 
 	02 - Pré-processamento;
 	03 - Transformação;
