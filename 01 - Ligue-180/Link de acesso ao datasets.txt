@@ -1,0 +1,4 @@
+Observação:
+    Há um limite no tamanho de arquivos em 100 megas bits pelo Github. Os datasets exceder o tamanho máximo, você poderá    acessar os mesmos através do link.
+
+    https://drive.google.com/drive/folders/1UrurSSeFUlpiwNGECEuNKt85WEaf_aow?usp=sharing
